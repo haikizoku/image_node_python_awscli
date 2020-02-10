@@ -1,1 +1,2 @@
-image_node_python_aws
+# image node python and awscli
+image node:13.8.0
