@@ -1,0 +1,1 @@
+image_node_python_aws
